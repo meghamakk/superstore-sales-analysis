@@ -87,3 +87,5 @@ Business insights and recommendations
 Conclusion
 
 This project demonstrates how Excel can be used to organize, analyze, and visualize business data. The analysis helped identify important sales patterns and develop recommendations that could support business decision-making.
+
+<img width="876" height="593" alt="Screenshot 2026-11-09 at 5 59 22 PM" src="https://github.com/user-attachments/assets/f2bf767b-9d43-4535-ad1c-1c64656d8f1a" />
